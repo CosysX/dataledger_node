@@ -1,17 +1,18 @@
-# akita-government
+![RL SM Logo TM](https://user-images.githubusercontent.com/18197505/212445304-d1577a71-81c0-425f-b838-7a0fbcd821c1.png)
 
+# RoadLedger-Exchange
 
 ## How to Use
 
-**Still in development and testing. Unexpected errors and loss of funds may occur. Feedback is welcome!**
+**This is the applicaiton for the Exchange being used**
 
 ## Usage
 
 ### 1. Clone repository
 
-Clone git repository from [machineeconomy/akita-government](https://github.com/machineeconomy/akita-government)
+Clone git repository from [CosysX/roadledger_exchange](https://github.com/CosysX/roadledger_exchange)
 ```bash
-git clone https://github.com/machineeconomy/akita-government.git
+git clone https://github.com/CosysX/roadledger_exchange.git
 ```
 
 ### 2. create.env
@@ -69,10 +70,13 @@ npm run build
 cd ..
 ```
 
-### 5. Run government
+### 5. Run Exchnage
 
 enter these lines in your terminal.
 ```bash
 npm install
 npm start
 ```
+
+
+Copyright (C) 2023 CosysX.
