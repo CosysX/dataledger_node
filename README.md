@@ -30,7 +30,7 @@ SEED='REPLACEWITHEIGHTYONETRYTESEED'
 IOTANODE='https://nodes.thetangle.org:443'
 FALLBACKNODE='https://node01.iotatoken.nl'
 MAX_PAYMENT_TIME=4320
-NAME="Akita government"
+NAME="Road Ledger Exchange"
 VALUE=1
 ```
 
