@@ -1,6 +1,6 @@
-[DLX Logo TM](https://user-images.githubusercontent.com/18197505/212561424-959357bb-191b-48f5-8772-cb775925c83e.png)
+![DLX Logo TM](https://user-images.githubusercontent.com/18197505/212561424-959357bb-191b-48f5-8772-cb775925c83e.png)
 
-# Dataledger-Exchange!
+# Dataledger-Exchange
 
 ## How to Use
 
