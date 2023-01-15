@@ -47,7 +47,7 @@ export default {
         console.log("result", result)
         this.name = result.data.name
         this.balance = result.data.balance
-        this.action = 'Waiting for Work'
+        this.action = 'Waiting for Pay'
         this.last_tx = 'None'
       })
     }
