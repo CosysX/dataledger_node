@@ -1,6 +1,6 @@
 ![DLX Logo TM](https://user-images.githubusercontent.com/18197505/212561424-959357bb-191b-48f5-8772-cb775925c83e.png)
 
-# Dataledger-Exchange
+# Dataledger-Node
 
 ## How to Use
 
@@ -10,9 +10,9 @@
 
 ### 1. Clone repository
 
-Clone git repository from [CosysX/dataledger_exchange](https://github.com/CosysX/dataledger_exchange)
+Clone git repository from [CosysX/dataledger_node](https://github.com/CosysX/dataledger_node)
 ```bash
-git clone https://github.com/CosysX/dataledger_exchange.git
+git clone https://github.com/CosysX/dataledger_node.git
 ```
 
 ### 2. create.env
@@ -30,8 +30,8 @@ SEED='REPLACEWITHEIGHTYONETRYTESEED'
 IOTANODE='https://nodes.thetangle.org:443'
 FALLBACKNODE='https://node01.iotatoken.nl'
 MAX_PAYMENT_TIME=4320
-NAME="Road Ledger Exchange"
-VALUE=1
+NAME="Data Ledger Exchange Node"
+VALUE=5
 ```
 
 ### 3. Generate new seed
