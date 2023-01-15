@@ -4,7 +4,7 @@
 
 ## How to Use
 
-**This is the Data Ledger applicaiton which is deployed at user locations to create network to transfer data securly**
+**This is the Data LedgerTM applicaiton which is deployed at user locations to create network to transfer data securly**
 
 ## Usage
 
