@@ -4,7 +4,7 @@
 
 ## How to Use
 
-**This is the applicaiton for the Exchange being used**
+**This is the Road Ledger applicaiton which is deployed on at as the Exchange and connects to network to support RUC**
 
 ## Usage
 
