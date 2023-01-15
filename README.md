@@ -1,4 +1,4 @@
-![DL Logo](https://user-images.githubusercontent.com/18197505/212558408-82baa0ca-f617-451a-81ae-5673d201e191.png)
+![DL Logo](https://user-images.githubusercontent.com/18197505/212561387-8fb974ee-49c0-4745-875c-c1105a92997e.png)
 
 # Dataledger-Exchange
 
