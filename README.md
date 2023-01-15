@@ -4,7 +4,7 @@
 
 ## How to Use
 
-**This is the Data LedgerTM applicaiton which is deployed at user locations to create network to transfer data securly**
+**This is the Data LedgerTM applicaiton which is deployed at user locations to create network to transfer data securely. This software creates a Node and each decivse that wants to trasact data needs to connect to the Exchange network.**
 
 ## Usage
 
