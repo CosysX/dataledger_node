@@ -24,7 +24,7 @@ export default {
     return {
       payed: false,
       name: '1',
-      balance: '3 IOTA',
+      balance: '3 Tokens',
       action: 'ONLINE',
       last_tx: '1'
     }
