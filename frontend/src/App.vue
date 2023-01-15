@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div class="left">
-      <h3>Exchange Connections</h3>
+      <h3>Exchange Users</h3>
       <h1 class="title">{{name}}</h1>
       <h3>RUC Collected</h3>
       <h1 class="title">{{balance}}</h1>
@@ -23,7 +23,7 @@ export default {
   data() {
     return {
       payed: false,
-      name: '2',
+      name: '1',
       balance: '3 IOTA',
       action: 'ONLINE',
       last_tx: '1'
