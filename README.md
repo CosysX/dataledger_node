@@ -1,18 +1,18 @@
-![RL SM Logo TM](https://user-images.githubusercontent.com/18197505/212445304-d1577a71-81c0-425f-b838-7a0fbcd821c1.png)
+![DL Logo](https://user-images.githubusercontent.com/18197505/212558408-82baa0ca-f617-451a-81ae-5673d201e191.png)
 
-# RoadLedger-Exchange
+# Dataledger-Exchange
 
 ## How to Use
 
-**This is the Road Ledger applicaiton which is deployed on at as the Exchange and connects to network to support RUC**
+**This is the Data Ledger applicaiton which is deployed at user locations to create network to transfer data securly**
 
 ## Usage
 
 ### 1. Clone repository
 
-Clone git repository from [CosysX/roadledger_exchange](https://github.com/CosysX/roadledger_exchange)
+Clone git repository from [CosysX/dataledger_exchange](https://github.com/CosysX/dataledger_exchange)
 ```bash
-git clone https://github.com/CosysX/roadledger_exchange.git
+git clone https://github.com/CosysX/dataledger_exchange.git
 ```
 
 ### 2. create.env
@@ -70,7 +70,7 @@ npm run build
 cd ..
 ```
 
-### 5. Run Exchange
+### 5. Run Exchange Node
 
 enter these lines in your terminal.
 ```bash
