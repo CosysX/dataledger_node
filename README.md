@@ -70,7 +70,7 @@ npm run build
 cd ..
 ```
 
-### 5. Run Exchnage
+### 5. Run Exchange
 
 enter these lines in your terminal.
 ```bash
